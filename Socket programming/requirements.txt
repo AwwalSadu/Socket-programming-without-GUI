@@ -1,0 +1,28 @@
+Socket_programming tutorial in Python 
+
+Requirements: 
+.Python 3.7 and above 
+.Basic knowledge in the python programming language
+.Basic knowledge in handling Sockets
+.Python interpreter 
+
+USES : 
+.For connecting more devices at a time 
+.For establishing connections with ips
+.Basics of Encrypted messaging 
+.Making and creating Multiplayer games
+.
+
+
+Errors:
+1. Check if your IP address is correct 
+2. Check if the devices are conneced on the same network
+4. Check important (GENERAL) variables
+
+
+
+
+
+
+
+Python sockets by Awwal... learned on youtube on TechWithTim
